@@ -12,7 +12,7 @@ A serverless language translation app using AWS Lambda, Amazon Translate, and Co
 
 1. Install AWS CLI and SAM CLI
 2. Run `deploy.sh` to deploy backend
-3. Replace `YOUR_API_GATEWAY_URL` in `frontend/app.js`
+3. Replace `API` in `frontend/app.js`
 4. Open `frontend/index.html` in browser
 
 ## AWS Services Used

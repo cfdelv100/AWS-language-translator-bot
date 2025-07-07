@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv",
+    "\\backend",
+    "\\frontend",
+    "\\tests"
+  ],
+  "SelectedNode": "\\backend\\lambda_function.py",
+  "PreviewInSolutionExplorer": false
+}
